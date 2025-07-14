@@ -1,0 +1,56 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+*.lock
+*.log
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# Android
+android/local.properties
+android/app/debug
+android/app/release
+*.keystore
+
+# iOS
+ios
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/engine/
+ios/Flutter/flutter_assets/
+ios/.generated/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace
+
+# Firebase/Google Services
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Others
+.env
+*.jks
+*.pem
+*.key
+*.crt
+*.p12
+
+#folders
+linux
+windows
+macos
+web
