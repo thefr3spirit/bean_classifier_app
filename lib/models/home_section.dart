@@ -1,0 +1,1 @@
+enum HomeSection { main, history, about, settings }
