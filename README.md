@@ -8,9 +8,8 @@ BeanLeaf is a mobile AI-powered diagnostic tool designed to help farmers and agr
 - 🤖 **On-device AI model** – Uses TensorFlow Lite models for fast, offline predictions.
 - 📊 **Confidence scoring** – See how confident the model is in each prediction.
 - 🕓 **Prediction history** – Keeps a record of all past predictions for easy reference.
-- 🌍 **Multi-language support** – Switch between languages in the app settings.
 - 🔐 **User authentication** – Secure login system to personalize the experience.
-- ⚙️ **Settings customization** – Includes font scaling, dark mode, language preference, and history clearing options.
+- ⚙️ **Settings customization** – Includes font scaling, dark mode, and history clearing options.
 
 ## 🚀 Roadmap & Improvements
 
@@ -26,6 +25,7 @@ Here are some planned enhancements to increase performance, usability, and scala
 - [ ] **Redesigned homepage layout** for a cleaner, more intuitive user interface.
 - [ ] **Add loading animations** to improve perceived performance during inference.
 - [ ] **Improved accessibility** with dynamic font scaling and color contrast.
+- [ ] **Multi-language support** switch between languages in the app settings.
 
 ### 🌐 Features in Progress
 - [ ] **Real-time camera predictions** (live leaf scan via camera).
