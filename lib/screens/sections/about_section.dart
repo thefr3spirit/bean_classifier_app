@@ -71,7 +71,7 @@ class AboutSection extends StatelessWidget {
                       children: [
                         Icon(Icons.email, color: AppColors.primary),
                         const SizedBox(width: 12),
-                        Text('support@beanclassifier.com', style: TextStyle(fontSize: 16 * fontScale, color: AppColors.primary)),
+                        Text('obilledwin@gmail.com', style: TextStyle(fontSize: 16 * fontScale, color: AppColors.primary)),
                       ],
                     ),
                   ),
